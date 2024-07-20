@@ -1,0 +1,7 @@
+{
+  "name": "IonSearchbarSample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
